@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h1>Привет 2-1</h1>
+    <p>Изучаем git</p>
 </body>
 </html>
